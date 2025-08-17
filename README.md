@@ -6,9 +6,8 @@ This is some code I wrote using the WhisperAI, PyTube, and StreamLit APIs to int
 - Streamlit is an open-source framework designed to create web applications for data science and machine learning projects with minimal effort. It is a Python-based library that allows data scientists and machine learning engineers to build and share web apps quickly without needing extensive knowledge of web development.
 
 # Get started with Whisper AI on Windows
-1.	Install Python
+1.	[Install Python 3.11.8](https://www.python.org/downloads/release/python-3118/)
 - From Whisper AI documentation: [“We used Python 3.9.9 and PyTorch 1.10.1 to train and test our models, but the codebase is expected to be compatible with Python 3.8-3.11 and recent PyTorch versions.”](https://github.com/openai/whisper?tab=readme-ov-file#setup)
-- [Install Python 3.11.8](https://www.python.org/downloads/release/python-3118/)
 - After installing Python, to ensure other commands work as expected, ensure python.exe and pip.exe are added to the Windows Path
   -  [Add Python To Path](https://realpython.com/add-python-to-path/)
   -	[[Solved] 'pip' is not recognized as an internal or external command, operable program or batch file](https://www.youtube.com/watch?v=Jw_MuM2BOuI)
@@ -54,8 +53,8 @@ An extension of the detect lang and transcribe. This is code that utilizes the S
 
 # Resources
 ## Whisper AI
-Introducing Whisper | OpenAI
-openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+[Introducing Whisper | OpenAI](https://openai.com/index/whisper/)
+[openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper?tab=readme-ov-file#setup)
 Really Real Time Speech To Text · openai/whisper · Discussion #608
 OpenAI Whisper – Converting Speech to Text | GeeksforGeeks
 Creating an Audio Transcription and Summarization with OpenAI’s Whisper and Python | by Alex Rodrigues | Medium
