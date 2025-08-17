@@ -1,5 +1,5 @@
 # Introduction
-This is some code I wrote using the WhisperAI, PyTube, and StreamLit APIs to introduce high schoolers to working with open-source AI API models. These students had been using Carnegie Mellon's CS Academy [Python graphics API](https://pypi.org/project/cmu-graphics/) to learn coding in their AP CSP class. This code was part of a demo where I introduced them to various Python APIs they could utilize for speech-to-text projects.
+This is some code I wrote using the WhisperAI, PyTube, and StreamLit APIs to introduce high schoolers to working with open-source AI API models. These students had been using Carnegie Mellon's CS Academy [Python graphics API](https://pypi.org/project/cmu-graphics/) to learn coding in their AP CSP class. This code was part of a demo where I introduced them to various Python APIs they could utilize for speech-to-text projects (speech transcription).
 
 - WhisperAI is a speech-to-text open source model. You feed it audio, and it detects the language and transcribes it for you. 
 - Pytube is an open-source library that allows you to interact with videos, channels, and playlists on Youtube free of charge.
@@ -53,18 +53,19 @@ An extension of the detect lang and transcribe. This is code that utilizes the S
 
 # Resources
 ## Whisper AI
-[Introducing Whisper | OpenAI](https://openai.com/index/whisper/)
-[openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper?tab=readme-ov-file#setup)
-Really Real Time Speech To Text · openai/whisper · Discussion #608
-OpenAI Whisper – Converting Speech to Text | GeeksforGeeks
-Creating an Audio Transcription and Summarization with OpenAI’s Whisper and Python | by Alex Rodrigues | Medium
-OpenAI Whisper Python Tutorial: Step-by-Step Guide - Analyzing Alpha
+- [Introducing Whisper | OpenAI](https://openai.com/index/whisper/)
+- [openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper?tab=readme-ov-file#setup)
+- [Really Real Time Speech To Text · openai/whisper · Discussion #608](https://github.com/openai/whisper/discussions/608)
+- [OpenAI Whisper – Converting Speech to Text | GeeksforGeeks](https://www.geeksforgeeks.org/openai-whisper-converting-speech-to-text/)
+- [Creating an Audio Transcription and Summarization with OpenAI’s Whisper and Python | by Alex Rodrigues | Medium](https://medium.com/@alexrodriguesj/creating-an-audio-transcription-and-summarization-with-openais-whisper-and-python-860b41dfac8c)
+- [OpenAI Whisper Python Tutorial: Step-by-Step Guide - Analyzing Alpha](https://analyzingalpha.com/openai-whisper-python-tutorial)
 
 ## Pytube and Streamlit documentation
-python - get_highest_resolution function doesn't work in pytube - Stack Overflow
-streamlit-audiorecorder/README.md at main · theevann/streamlit-audiorecorder
-How to Build a Voice Transcription and Translation App with OpenAI Whisper and Streamlit | HackerNoon
+- [python - get_highest_resolution function doesn't work in pytube - Stack Overflow](https://stackoverflow.com/questions/65355569/get-highest-resolution-function-doesnt-work-in-pytube)
+- [streamlit-audiorecorder/README.md at main · theevann/streamlit-audiorecorder](https://github.com/theevann/streamlit-audiorecorder/blob/main/README.md)
+- [How to Build a Voice Transcription and Translation App with OpenAI Whisper and Streamlit | HackerNoon](https://hackernoon.com/building-a-voice-transcription-and-translation-app-with-openai-whisper-and-streamlit-dev-community)
 
+# Resources to Expand this project
 ## Text-to-Speech Open Source model
-synesthesiam/opentts: Open Text to Speech Server
-canopyai/Orpheus-TTS: Towards Human-Sounding Speech
+- [synesthesiam/opentts: Open Text to Speech Server](https://github.com/synesthesiam/opentts?tab=readme-ov-file)
+- [canopyai/Orpheus-TTS: Towards Human-Sounding Speech](https://github.com/canopyai/Orpheus-TTS)
